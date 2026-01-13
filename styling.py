@@ -77,7 +77,6 @@ def apply_custom_styling():
     /* Hide Streamlit components for a cleaner look */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
-    header {visibility: hidden;}
     
     </style>
     """, unsafe_allow_html=True)
